@@ -1,2 +1,0 @@
-# AFK-BOT
-AFK BOT
