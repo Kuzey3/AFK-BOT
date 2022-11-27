@@ -1,0 +1,9 @@
+{
+	"ip":"play.fitronetwork.tk",
+	"port": 25565,
+	"name": "FitroAfk",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (123123123(remember_no_spaces)) (123123123(remember_no_spaces))",
+	"login-cmd":"/login (123123123)"
+}
